@@ -22,7 +22,7 @@ const Header = ({scrollToVision, scrollToContact, scrollToServices, scrollToFaq,
       <div className="flex w-[100%] sm:w-[100%]  h-32 justify-between bg-custom-gradient ">
         <button className="bg-teal-900 hover:bg-gray-800 text-white font-bold hover:text-white py-2 px-4  border border-black hover:border-transparent rounded fixed bottom-4 right-4" onClick={scrollToHead}>Home</button>
         <div className={`w-[20%] md:m-4 h-32 text-5xl m-5  font-bold permanent-font ${ isOpen ? 'head': 'block'  }`}>
-          <h1>ECSTASY QUEST</h1>
+          <h1>REKHMANOTTAM</h1>
         </div>
       
         <button
