@@ -11,3 +11,4 @@ export default defineConfig({
     strictMimeType: false,
   },
 });
+
